@@ -239,8 +239,8 @@
 				DD4B4C6B40ED8724284AD15B /* WKTReader.swift */,
 				793FEACC4D9B05269696BAB5 /* WKTWriter.swift */,
 				3F0328894E9009C88F31681E /* GeoJSONReader.swift */,
-				366980459AB4A459BFC2794C /* AVLTree.swift */,
 				36698D0EE79CE2A26E25F52C /* GeoJSONWriter.swift */,
+				366980459AB4A459BFC2794C /* AVLTree.swift */,
 			);
 			path = GeoFeatures;
 			sourceTree = "<group>";

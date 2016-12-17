@@ -331,9 +331,9 @@
 				EA8D58DE1DB7E34C00713261 /* WKTReaderTests.swift */,
 				EA8D58E01DB7E34C00713261 /* WKTWriterTests.swift */,
 				EA87EB851DDCD60500E679FA /* GeoJSONReaderTests.swift */,
-				3669862165B76D440C670997 /* AVLTreeTests.swift */,
 				36698C94B546064F7EC4D28D /* GeoJSONWriterTests.swift */,
 				366986535979808D592A1CB3 /* UnsupportedGeometry.swift */,
+				3669862165B76D440C670997 /* AVLTreeTests.swift */,
 			);
 			path = GeoFeaturesTests;
 			sourceTree = "<group>";
